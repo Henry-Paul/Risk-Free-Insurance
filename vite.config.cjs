@@ -1,8 +1,8 @@
-// vite.config.cjs  (CommonJS-safe)
-const { defineConfig } = require("vite");
-const react = require("@vitejs/plugin-react");
+// vite.config.cjs
+const { defineConfig } = require('vite');
+const react = require('@vitejs/plugin-react');
 
 module.exports = defineConfig({
-  plugins: [react()],
+  plugins: [ react() ],
   server: { port: 5173 }
 });
