@@ -87,7 +87,7 @@ export default function App(){
       <main>
         <section className="bg-gradient-to-br from-blue-50 to-white py-12 text-center">
           <div className="max-w-5xl mx-auto px-4">
-            <h1 className="text-3xl sm:text-4xl font-extrabold">Compare <span className="text-blue-600">Top Indian Insurers</span></h1>
+            <h1 className="hero-h1 sm:text-3xl lg:text-4xl font-extrabold mb-3 leading-tight">Compare <span className="text-blue-600">Top Indian Insurers</span> Quickly — Chat or Call Instantly</h1>
             <p className="text-gray-600 mt-2">Scan claim ratios, compare indicative prices, and connect with advisors instantly.</p>
 
             <div className="mt-4 flex items-center gap-3 justify-center">
